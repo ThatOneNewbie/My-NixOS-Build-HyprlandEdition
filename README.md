@@ -1,2 +1,3 @@
-# My-NixOS-Build
-My configurations used for NixOS
+# My-NixOS-Build-Hyprland
+My configurations used for NixOS Hyprland edition!
+IF FOR SOME REASON YOU USE MY CONFIG REMEMBER TO EDIT THE USERNAME, TIMEZONE, and KEYBOARD, AND STUFF VERY IMPORTANT!!!
